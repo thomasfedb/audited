@@ -8,7 +8,7 @@ Breaking changes
 
 Added
 
-- None
+- Remove dependency on rails-observers
 
 Fixed
 
